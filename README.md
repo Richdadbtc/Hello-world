@@ -1,2 +1,6 @@
 # Hello-world
-Testing
+
+
+ Hello people
+  
+ Am Chris and I am an IT personal
